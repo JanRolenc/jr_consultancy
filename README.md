@@ -1,2 +1,2 @@
-# my-business-webpage
-My business webpages
+# business-webpage
+Business webpage
